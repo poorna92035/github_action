@@ -25,4 +25,4 @@ jobs:
 
       - name: Run Script
         run: |
-          python app.py
+          python ../src/app.py
